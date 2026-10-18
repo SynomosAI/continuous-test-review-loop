@@ -1,0 +1,18 @@
+# continuous-test-review-loop
+
+> 持续测试评审闭环：把「实测→复盘→改进→复测」做成常态化机制。固定 5+1 测试清单、复盘模板、改进处置规则，每轮报告入方案池，未清零项进下轮直至清零。
+
+`continuous-test-review-loop` 是 SynomosAI 生态的一个 Agent Skill，面向 continuous testing / regression / test review 场景。
+
+## 核心
+
+- [README.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/README.md): 项目说明与快速开始
+- [SKILL.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/SKILL.md): 技能主文件（循环四步 / 清单 / 模板 / 处置规则）
+- [LICENSE.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/LICENSE.md): MIT License
+
+## 可选
+
+- [README.en.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/README.en.md): 英文版说明
+- [llms-full.txt](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/llms-full.txt): 完整文本
+- [AGENTS.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/AGENTS.md): Agent 工作指引
+- [SECURITY.md](https://github.com/SynomosAI/continuous-test-review-loop/blob/main/SECURITY.md): 安全策略
