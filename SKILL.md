@@ -1,5 +1,6 @@
 ---
 name: continuous-test-review-loop
+description: 把「不断测试→复盘→改进→复测」做成常态化机制：固定测试清单、复盘模板、改进闭环、每轮报告入方案池。
 slug: continuous-test-review-loop
 display_name: 实测-复盘-改进循环
 summary: 把「不断测试→复盘→改进→复测」做成常态化机制：固定测试清单、复盘模板、改进闭环、每轮报告入方案池。触发词：测试、复盘、改进、打磨、实际运行测试、验证方案。
